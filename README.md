@@ -14,7 +14,9 @@ Qt版本：5.12.0或更高
 - 其他窗口 包括添加优惠信息窗口，添加活动信息窗口等。
 
 ### 系统结构
-```
+
+```mermaid
+graph TD
 A[系统主界面]-->B[消费管理]
 A->C[会员管理]
 A->D[商品管理]
@@ -57,8 +59,11 @@ E->E3[礼品管理]
 
 ## 部分界面
 ![登录界面](MyMMS/images/login.png)
+
 ![注册界面](MyMMS/images/regist.png)
+
 ![主界面](MyMMS/images/mainwindow.png)
+
 ![弹出界面](MyMMS/images/others.png)
 
 
