@@ -25,6 +25,7 @@ Qt版本：5.12.0或更高
 项目目录
 ├── LICENSE
 ├── README.md
+├── realse
 └── MyMMS
     ├── MyMMS.pro      -- 项目文件
     ├── *.cpp *.h ... -- 源代码文件和头文件
